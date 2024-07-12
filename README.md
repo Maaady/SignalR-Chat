@@ -1,10 +1,5 @@
 # SignalR-Chat
 A real-time chat application using .NET 7, SignalR and KnockoutJS.
-
-Live Demo: https://demo2-kouki.azurewebsites.net/
-
-![](https://raw.githubusercontent.com/AKouki/SignalR-Chat/main/src/Chat.Web/wwwroot/images/screenshots/web.png)
-
 ## Features
 * Group chat
 * Private chat `/private(Name) Hello, how are you?`
